@@ -1,6 +1,6 @@
 {
   "name": "jr-debounce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "debounce! me!",
   "main": "debounce.js",
   "repository": {
